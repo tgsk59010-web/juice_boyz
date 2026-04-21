@@ -4,37 +4,37 @@ const products = [
     name: "Beetroot Juice",
     price: "RM 8.00",
     desc: "Boosts blood circulation",
-    img: "IMAGES/beetroot card.jpeg"
+    img: "https://raw.githubusercontent.com/tgsk59010-web/juice-boyz123456/main/beetroot%20card.jpeg"
   },
   {
     name: "Carrot Juice",
     price: "RM 5.00",
     desc: "Improves eyesight & skin health",
-    img: "IMAGES/carrot card.jpeg"
+    img: "https://raw.githubusercontent.com/tgsk59010-web/juice-boyz123456/main/carrot%20card.jpeg"
   },
   {
     name: "Dragon Fruit Juice",
     price: "RM 7.00",
     desc: "High antioxidants for immunity",
-    img: "IMAGES/dragonfruit card.jpeg"
+    img: "https://raw.githubusercontent.com/tgsk59010-web/juice-boyz123456/main/dragonfruit%20card.jpeg"
   },
   {
     name: "Green Apple & Grapes",
     price: "RM 10.00",
     desc: "Energy + detox blend",
-    img: "IMAGES/green apple_grapes card.jpeg"
+    img: "https://raw.githubusercontent.com/tgsk59010-web/juice-boyz123456/main/green%20apple_grapes%20card.jpeg"
   },
   {
     name: "Orange Juice",
     price: "RM 5.00",
     desc: "Vitamin C booster",
-    img: "IMAGES/orange card.jpeg"
+    img: "https://raw.githubusercontent.com/tgsk59010-web/juice-boyz123456/main/orange%20card.jpeg"
   },
   {
     name: "Watermelon Juice",
     price: "RM 7.00",
     desc: "Hydration & refreshment",
-    img: "IMAGES/watermelon card.jpeg"
+    img: "https://raw.githubusercontent.com/tgsk59010-web/juice-boyz123456/main/watermelon%20card.jpeg"
   }
 ];
 
